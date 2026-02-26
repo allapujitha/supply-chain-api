@@ -1,0 +1,201 @@
+product_id,product_name,category,price
+P0,student,Clothing,347.61
+P1,reason,Automotive,2524.43
+P2,third,Food & Beverage,7391.07
+P3,line,Clothing,5945.88
+P4,floor,Electronics,394.99
+P5,Democrat,Pharmaceuticals,2403.34
+P6,write,Electronics,5656.33
+P7,business,Consumer Goods,2282.36
+P8,budget,Automotive,8113.36
+P9,cost,Electronics,7612.19
+P10,investment,Food & Beverage,7011.58
+P11,thousand,Industrial,2850.93
+P12,week,Pharmaceuticals,9576.41
+P13,fish,Industrial,1111.88
+P14,start,Consumer Goods,1057.49
+P15,market,Industrial,6076.89
+P16,bad,Electronics,7324.34
+P17,play,Clothing,9733.85
+P18,civil,Consumer Goods,880.12
+P19,often,Automotive,8311.11
+P20,too,Industrial,5815.79
+P21,keep,Clothing,553.66
+P22,space,Pharmaceuticals,7753.38
+P23,base,Clothing,8567.65
+P24,she,Clothing,3863.25
+P25,laugh,Furniture,6393.28
+P26,while,Industrial,1710.28
+P27,cut,Industrial,2174.12
+P28,carry,Automotive,7048.02
+P29,people,Clothing,6130.4
+P30,order,Food & Beverage,5387.98
+P31,protect,Pharmaceuticals,1717.68
+P32,large,Consumer Goods,2772.48
+P33,glass,Pharmaceuticals,6877.68
+P34,dream,Electronics,2367.58
+P35,director,Electronics,8069.95
+P36,rise,Consumer Goods,2750.63
+P37,resource,Pharmaceuticals,9140.05
+P38,great,Industrial,2205.0
+P39,seek,Furniture,4016.76
+P40,idea,Furniture,1514.43
+P41,develop,Food & Beverage,2541.61
+P42,yet,Automotive,7495.44
+P43,off,Consumer Goods,8988.45
+P44,administration,Consumer Goods,3683.76
+P45,debate,Food & Beverage,5144.31
+P46,task,Clothing,7582.24
+P47,represent,Clothing,1613.13
+P48,loss,Food & Beverage,7941.59
+P49,subject,Consumer Goods,6004.45
+P50,history,Consumer Goods,3878.03
+P51,despite,Furniture,5338.23
+P52,wear,Electronics,6834.81
+P53,performance,Clothing,6848.93
+P54,throughout,Automotive,7709.13
+P55,least,Industrial,1204.37
+P56,low,Consumer Goods,1665.76
+P57,common,Electronics,9542.78
+P58,from,Automotive,9721.69
+P59,seek,Food & Beverage,5126.05
+P60,believe,Clothing,8718.13
+P61,bit,Automotive,8432.53
+P62,building,Pharmaceuticals,1613.11
+P63,he,Food & Beverage,5439.85
+P64,avoid,Electronics,6029.55
+P65,large,Furniture,292.82
+P66,information,Industrial,8799.35
+P67,thousand,Automotive,2470.58
+P68,key,Pharmaceuticals,8792.3
+P69,individual,Clothing,947.97
+P70,spring,Furniture,8178.63
+P71,fact,Food & Beverage,1371.08
+P72,impact,Furniture,9473.8
+P73,begin,Food & Beverage,2724.06
+P74,suddenly,Consumer Goods,9647.19
+P75,evening,Pharmaceuticals,7158.19
+P76,present,Consumer Goods,9951.98
+P77,until,Industrial,4437.19
+P78,first,Furniture,1297.94
+P79,side,Pharmaceuticals,733.86
+P80,answer,Electronics,5924.26
+P81,for,Pharmaceuticals,5925.56
+P82,car,Electronics,802.83
+P83,hand,Electronics,2366.52
+P84,kitchen,Electronics,8610.39
+P85,produce,Clothing,5190.15
+P86,war,Automotive,6722.88
+P87,work,Pharmaceuticals,5438.42
+P88,affect,Furniture,2505.67
+P89,use,Furniture,8094.22
+P90,last,Pharmaceuticals,1033.83
+P91,huge,Consumer Goods,3607.55
+P92,represent,Consumer Goods,4723.54
+P93,player,Electronics,6766.31
+P94,born,Clothing,700.07
+P95,foot,Industrial,8025.87
+P96,great,Clothing,2561.7
+P97,light,Pharmaceuticals,5409.23
+P98,fact,Food & Beverage,4276.63
+P99,have,Automotive,4680.02
+P100,popular,Clothing,4486.99
+P101,current,Clothing,600.82
+P102,ready,Electronics,9693.06
+P103,other,Pharmaceuticals,1746.48
+P104,mouth,Furniture,4865.45
+P105,because,Consumer Goods,9034.18
+P106,member,Food & Beverage,3851.83
+P107,ahead,Consumer Goods,2725.51
+P108,pull,Furniture,2923.97
+P109,choice,Furniture,1632.49
+P110,no,Automotive,2255.24
+P111,our,Electronics,5833.88
+P112,cold,Electronics,7504.96
+P113,happy,Electronics,596.41
+P114,sing,Furniture,5078.22
+P115,break,Food & Beverage,663.11
+P116,ball,Clothing,8528.29
+P117,such,Clothing,5990.85
+P118,dinner,Pharmaceuticals,4097.38
+P119,deep,Pharmaceuticals,5831.3
+P120,rest,Electronics,6231.88
+P121,daughter,Consumer Goods,6607.99
+P122,simple,Industrial,9353.59
+P123,local,Pharmaceuticals,6730.29
+P124,away,Industrial,2462.99
+P125,training,Consumer Goods,1395.69
+P126,exactly,Automotive,4626.52
+P127,with,Clothing,192.22
+P128,art,Clothing,825.28
+P129,bad,Pharmaceuticals,5108.26
+P130,scientist,Food & Beverage,9339.27
+P131,research,Clothing,8804.78
+P132,put,Industrial,2921.38
+P133,look,Furniture,8354.08
+P134,girl,Automotive,6155.61
+P135,century,Electronics,6711.85
+P136,pattern,Automotive,9324.38
+P137,contain,Clothing,9395.41
+P138,nearly,Food & Beverage,2718.21
+P139,read,Clothing,7449.93
+P140,street,Food & Beverage,2796.25
+P141,be,Pharmaceuticals,7204.36
+P142,boy,Pharmaceuticals,6906.22
+P143,past,Automotive,5103.55
+P144,now,Automotive,9062.83
+P145,training,Electronics,1013.75
+P146,animal,Consumer Goods,8310.55
+P147,everything,Electronics,135.1
+P148,myself,Food & Beverage,6407.42
+P149,weight,Automotive,1699.66
+P150,choice,Furniture,5561.64
+P151,remember,Consumer Goods,5652.98
+P152,west,Clothing,844.91
+P153,model,Food & Beverage,5501.34
+P154,ever,Industrial,5866.84
+P155,special,Food & Beverage,4354.89
+P156,happy,Electronics,3151.76
+P157,true,Electronics,8999.35
+P158,event,Pharmaceuticals,6852.46
+P159,against,Clothing,3601.42
+P160,clearly,Consumer Goods,9740.99
+P161,company,Food & Beverage,9265.06
+P162,right,Pharmaceuticals,8659.6
+P163,prove,Food & Beverage,8826.02
+P164,collection,Electronics,1875.67
+P165,stand,Industrial,7845.63
+P166,because,Consumer Goods,8042.13
+P167,force,Pharmaceuticals,2741.38
+P168,various,Clothing,3887.16
+P169,attention,Electronics,8600.07
+P170,road,Pharmaceuticals,2075.77
+P171,see,Furniture,3561.62
+P172,catch,Pharmaceuticals,2306.94
+P173,may,Pharmaceuticals,4044.81
+P174,industry,Automotive,8657.09
+P175,many,Automotive,3576.35
+P176,billion,Consumer Goods,6827.23
+P177,former,Industrial,9398.45
+P178,trip,Clothing,8782.68
+P179,perform,Automotive,1867.82
+P180,let,Automotive,478.75
+P181,behavior,Consumer Goods,3522.3
+P182,effort,Industrial,4420.3
+P183,fall,Clothing,3913.43
+P184,any,Pharmaceuticals,2621.75
+P185,production,Consumer Goods,116.74
+P186,resource,Pharmaceuticals,3705.79
+P187,day,Clothing,9493.86
+P188,board,Industrial,6269.24
+P189,science,Clothing,7225.57
+P190,phone,Automotive,5120.51
+P191,detail,Consumer Goods,3329.21
+P192,poor,Automotive,5588.68
+P193,local,Pharmaceuticals,4262.42
+P194,service,Consumer Goods,6805.45
+P195,section,Food & Beverage,6193.6
+P196,who,Automotive,4120.14
+P197,mother,Electronics,3108.36
+P198,week,Pharmaceuticals,4355.89
+P199,family,Industrial,4703.38

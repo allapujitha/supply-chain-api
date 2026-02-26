@@ -1,0 +1,4 @@
+files:
+  products: products.csv
+  orders: orders.csv
+  suppliers: suppliers.csv
